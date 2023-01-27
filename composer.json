@@ -1,0 +1,19 @@
+{
+	"name": "jerickcm/Migration",
+	"description": "\"Test Migration\"",
+	"autoload": {
+		"psr-4": {
+			"Jerickcm\\Migration\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "jerick",
+			"email": "jmangaluz@gmail.com"
+		}
+	],
+	"require": {
+		"guzzlehttp/guzzle": "^7.5"
+	}
+
+}
