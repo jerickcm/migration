@@ -1,5 +1,5 @@
 {
-	"name": "jerickcm/Migration",
+	"name": "jerickcm/migration",
 	"description": "\"Test Migration\"",
 	"autoload": {
 		"psr-4": {
